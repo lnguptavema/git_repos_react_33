@@ -1,0 +1,33 @@
+li {
+  list-style-type: none;
+  align-items: center;
+  align-self: center;
+  text-align: center;
+  align-content: center;
+}
+.normalButton {
+  border-radius: 10px;
+  border: 0px;
+  background-color: white;
+  height: 8vh;
+  margin: 5px;
+  cursor: pointer;
+  outline: none;
+  width: 6vw;
+  align-items: center;
+  align-content: center;
+  font-size: 7px;
+}
+.styledButton {
+  border: solid 1px #0284c7;
+  border-radius: 10px;
+  background-color: white;
+  height: 8vh;
+  margin: 5px;
+  cursor: pointer;
+  outline: none;
+  width: 6vw;
+  align-items: center;
+  align-content: center;
+  font-size: 7px;
+}

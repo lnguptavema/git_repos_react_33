@@ -1,0 +1,27 @@
+.avatarUrl {
+  height: 15vh;
+  width: 10vw;
+}
+.iconContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.iconsImg {
+  height: 3vh;
+  width: 3vw;
+  margin: 5px;
+}
+.name {
+  color: red;
+  font-size: 15px;
+}
+.gitListItem {
+  background-color: #f8f8ff;
+  border-radius: 10px;
+  padding: 10px;
+  align-self: center;
+  margin: 10px;
+  height: 60vh;
+  width: 20vw;
+}

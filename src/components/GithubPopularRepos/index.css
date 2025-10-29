@@ -1,0 +1,21 @@
+ul {
+  display: flex;
+  text-align: center;
+}
+.gitList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 70vw;
+}
+.heading {
+  font-family: lobster;
+}
+div {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+  align-self: center;
+}
